@@ -1,0 +1,12 @@
+C:\Try\Assim\AssecorTest\Web.API\DAL\bin\Debug\netcoreapp2.2\DAL.deps.json
+C:\Try\Assim\AssecorTest\Web.API\DAL\bin\Debug\netcoreapp2.2\DAL.dll
+C:\Try\Assim\AssecorTest\Web.API\DAL\bin\Debug\netcoreapp2.2\DAL.pdb
+C:\Try\Assim\AssecorTest\Web.API\DAL\bin\Debug\netcoreapp2.2\Core.dll
+C:\Try\Assim\AssecorTest\Web.API\DAL\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Try\Assim\AssecorTest\Web.API\DAL\obj\Debug\netcoreapp2.2\DAL.csprojAssemblyReference.cache
+C:\Try\Assim\AssecorTest\Web.API\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.CoreCompileInputs.cache
+C:\Try\Assim\AssecorTest\Web.API\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfoInputs.cache
+C:\Try\Assim\AssecorTest\Web.API\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfo.cs
+C:\Try\Assim\AssecorTest\Web.API\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.CopyComplete
+C:\Try\Assim\AssecorTest\Web.API\DAL\obj\Debug\netcoreapp2.2\DAL.dll
+C:\Try\Assim\AssecorTest\Web.API\DAL\obj\Debug\netcoreapp2.2\DAL.pdb

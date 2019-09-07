@@ -1,0 +1,17 @@
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\bin\Debug\netcoreapp2.2\Core.Tests.deps.json
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\bin\Debug\netcoreapp2.2\Core.Tests.runtimeconfig.json
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\bin\Debug\netcoreapp2.2\Core.Tests.runtimeconfig.dev.json
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\bin\Debug\netcoreapp2.2\Core.Tests.dll
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\bin\Debug\netcoreapp2.2\Core.dll
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\obj\Debug\netcoreapp2.2\Core.Tests.csprojAssemblyReference.cache
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\obj\Debug\netcoreapp2.2\Core.Tests.csproj.CoreCompileInputs.cache
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\obj\Debug\netcoreapp2.2\Core.Tests.AssemblyInfoInputs.cache
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\obj\Debug\netcoreapp2.2\Core.Tests.AssemblyInfo.cs
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\obj\Debug\netcoreapp2.2\Core.Tests.csproj.CopyComplete
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\bin\Debug\netcoreapp2.2\Core.Tests.pdb
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\obj\Debug\netcoreapp2.2\Core.Tests.dll
+C:\Try\Assim\AssecorTest\Web.API\Core.Tests\obj\Debug\netcoreapp2.2\Core.Tests.pdb
